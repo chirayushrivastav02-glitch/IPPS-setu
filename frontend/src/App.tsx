@@ -35,7 +35,6 @@ import ScaleupPage from "@/pages/startup/ScaleupPage";
 import ProfilePage from "@/pages/startup/ProfilePage";
 import DocumentsPage from "@/pages/startup/DocumentsPage";
 import NotificationsPage from "@/pages/startup/NotificationsPage";
-import ComingSoon from "@/pages/ComingSoon";
 
 // BrowserRouter is already mounted in main.tsx — this file owns the route table.
 
